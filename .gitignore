@@ -1,2 +1,8 @@
-/*.c
-trace_lpcc.json
+/*
+!.vscode
+!include
+!kernel
+!log
+!.gitignore
+!config.ini
+!README.md

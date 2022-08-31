@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "LPC",
+            "includePath": [
+                "${workspaceFolder}/include/"
+            ],
+            "forcedInclude": [
+                "${workspaceFolder}/include/globals.h"
+            ],
+            "defines": [
+                "FLUFFOS",
+                "MUDOS"
+            ],
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
